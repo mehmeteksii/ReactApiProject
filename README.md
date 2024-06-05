@@ -15,24 +15,24 @@ Ayrıca, projeyi çalıştırmadan önce JSON Server'ı yüklemelisiniz. JSON Se
 ```bash
 npm install -g json-server
 ```
-# Kurulum
-## Proje dizinine gidin:
+## Kurulum
+### Proje dizinine gidin:
 ```bash
 cd proje-dizini
 ```
-## Bağımlılıkları yükleyin:
+### Bağımlılıkları yükleyin:
 
 ```bash
 npm install
 ```
 
-## JSON Server'ı başlatın:
+### JSON Server'ı başlatın:
 
 ```bash
 json-server --watch db.json
 ```
 
-## Projeyi başlatın:
+### Projeyi başlatın:
 
 ```bash
 npm start
